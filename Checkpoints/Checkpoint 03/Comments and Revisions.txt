@@ -1,6 +1,0 @@
-Grader’s comment:
-1. In simple queries f, C is in the outside query but the Customer is in the inside query. Missing Customer in the outside query. Same as 4a,e,f in Advanced queries. 
-2. Overall, good job!!!
-
-Revision:
-1: Please see User Manual [Page 4 Section SQL QUERY EXAMPLES Query 6, Query 11, Query 15, and Query16] 

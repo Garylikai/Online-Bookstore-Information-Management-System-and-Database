@@ -1,9 +1,0 @@
-Grader’s comment:
-1. Please mark primary keys for each entities.
-2. good additional entities!
-3. make sure you can track the total inventory of books by entity book, customer and author.
-4. make sure you have a many-to-many relationship between Book and Customer entity somehow.
-Good job!
-
-Revision:
-1, 3, 4: Please see Database Description [Page 1 Section ER DIAGRAM]
