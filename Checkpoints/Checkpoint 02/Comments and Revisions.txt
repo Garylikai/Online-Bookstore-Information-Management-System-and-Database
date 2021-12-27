@@ -1,0 +1,10 @@
+Grader’s comment:
+1. In the ER diagram, one book must be written by at least one author.
+2. ISBN can be the primary key for Book entity. 
+3. Inventory entity does not have ISBN# attribute. But there is a join between LessThanFive and Book with ISBN# in question 3c.
+4. Overall, good job!
+
+Revision:
+1: Please see Database Description [Page 1 Section ER DIAGRAM]
+2: Please see Database Description [Page 2 Section RELATIONAL SCHEMA]
+3: Please see User Manual [Page 4 Section SQL QUERY EXAMPLES Query 3]
